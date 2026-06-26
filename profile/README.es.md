@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4695EB,100:7F52FF&height=200&section=header&text=Ventixs&fontSize=70&fontColor=ffffff&desc=Technology%20%26%20AI%20Products&descSize=20&descAlignY=68" alt="Ventixs" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4695EB,100:7F52FF&height=200&section=header&text=Ventixs&fontSize=70&fontColor=ffffff&desc=Productos%20de%20Tecnolog%C3%ADa%20e%20IA&descSize=20&descAlignY=68" alt="Ventixs" />
 </div>
 
 <p align="center">
-  <b>🌐 English</b> · <a href="./README.es.md">Español 🇪🇸</a>
+  <a href="./README.md">English 🌐</a> · <b>Español 🇪🇸</b>
 </p>
 
 <p align="center">
   <a href="https://ventixs.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4695EB&center=true&vCenter=true&width=620&lines=A+technology+company+%F0%9F%9A%80;Digital+products+%26+artificial+intelligence;We+build+software+that+solves+real+problems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4695EB&center=true&vCenter=true&width=620&lines=Empresa+de+tecnolog%C3%ADa+%F0%9F%9A%80;Productos+digitales+e+inteligencia+artificial;Construimos+software+que+resuelve+problemas+reales" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,33 +18,33 @@
 
 ---
 
-## 👋 About us
+## 👋 Sobre nosotros
 
-**Ventixs** is a technology company that designs and builds digital products and
-artificial intelligence. We develop end-to-end software solutions — from
-infrastructure and APIs to user-facing interfaces — with a focus on automation,
-conversational experiences and scalability.
+**Ventixs** es una empresa de tecnología que diseña y construye productos digitales
+e inteligencia artificial. Desarrollamos soluciones de software end-to-end —
+desde la infraestructura y las APIs hasta las interfaces de usuario— con foco en
+la automatización, la experiencia conversacional y la escalabilidad.
 
 ---
 
-## 🚀 Products
+## 🚀 Productos
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 Ventixs Bot</h3>
-      An <b>AI-powered conversational platform</b>: generative AI, embeddings and
-      multichannel messaging, with built-in subscriptions and payments.
+      Plataforma conversacional con <b>inteligencia artificial</b>: IA generativa,
+      embeddings y mensajería multicanal, con suscripciones y pagos integrados.
     </td>
     <td width="50%" valign="top">
       <h3>🎁 ParaTi</h3>
-      A <b>gifting app for couples and events</b>: wishlists, birthday gifts and
-      special occasions to make gifting (and surprising) effortless.
+      App de <b>regalos para parejas y eventos</b>: listas de deseos, regalos de
+      cumpleaños y ocasiones especiales para que regalar (y sorprender) sea fácil.
     </td>
   </tr>
 </table>
 
-> _Want to know more? Visit **[ventixs.com](https://ventixs.com)**._
+> _¿Quieres saber más? Visita **[ventixs.com](https://ventixs.com)**._
 
 ---
 
@@ -69,7 +69,7 @@ conversational experiences and scalability.
 
 ---
 
-## 🌐 Connect with us
+## 🌐 Conecta con nosotros
 
 <p align="center">
   <a href="https://ventixs.com"><img src="https://img.shields.io/badge/Website-4695EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>

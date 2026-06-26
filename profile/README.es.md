@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4695EB,100:7F52FF&height=200&section=header&text=Ventixs&fontSize=70&fontColor=ffffff&desc=Productos%20de%20Tecnolog%C3%ADa%20e%20IA&descSize=20&descAlignY=68" alt="Ventixs" />
+  <img src="https://raw.githubusercontent.com/ventixs/.github/main/profile/assets/banner.svg" alt="Ventixs — Productos de Tecnología e IA" width="100%" />
 </div>
 
 <p align="center">
@@ -77,5 +77,5 @@ la automatización, la experiencia conversacional y la escalabilidad.
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:4695EB&height=120&section=footer" alt="" />
+  <img src="https://raw.githubusercontent.com/ventixs/.github/main/profile/assets/footer.svg" alt="" width="100%" />
 </div>

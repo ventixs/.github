@@ -33,9 +33,9 @@ la automatización, la experiencia conversacional y la escalabilidad.
       embeddings y mensajería multicanal, con suscripciones y pagos integrados.
     </td>
     <td width="50%" valign="top">
-      <h3>✨ ParaTi</h3>
-      Producto digital de Ventixs enfocado en ofrecer una experiencia cercana y
-      personalizada a sus usuarios.
+      <h3>🎁 ParaTi</h3>
+      App de <b>regalos para parejas y eventos</b>: listas de deseos, regalos de
+      cumpleaños y ocasiones especiales para que regalar (y sorprender) sea fácil.
     </td>
   </tr>
 </table>

@@ -37,9 +37,9 @@ la automatización, la experiencia conversacional y la escalabilidad.
       embeddings y mensajería multicanal, con suscripciones y pagos integrados.
     </td>
     <td width="50%" valign="top">
-      <h3>🎁 ParaTi</h3>
-      App de <b>regalos para parejas y eventos</b>: listas de deseos, regalos de
-      cumpleaños y ocasiones especiales para que regalar (y sorprender) sea fácil.
+      <h3>🎁 <a href="https://paratipe.com">ParaTi</a></h3>
+      App de <b>bodas, eventos y regalos para novios</b>: lista de regalos,
+      organización de tu boda y celebraciones especiales. <i>Tu boda, tu historia.</i>
     </td>
   </tr>
 </table>

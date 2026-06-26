@@ -37,9 +37,9 @@ conversational experiences and scalability.
       multichannel messaging, with built-in subscriptions and payments.
     </td>
     <td width="50%" valign="top">
-      <h3>🎁 ParaTi</h3>
-      A <b>gifting app for couples and events</b>: wishlists, birthday gifts and
-      special occasions to make gifting (and surprising) effortless.
+      <h3>🎁 <a href="https://paratipe.com">ParaTi</a></h3>
+      A <b>weddings, events & gifting app for couples</b>: gift registry, wedding
+      planning and special celebrations. <i>Your wedding, your story.</i>
     </td>
   </tr>
 </table>

@@ -25,6 +25,13 @@ e inteligencia artificial. Desarrollamos soluciones de software end-to-end —
 desde la infraestructura y las APIs hasta las interfaces de usuario— con foco en
 la automatización, la experiencia conversacional y la escalabilidad.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/🤖_Inteligencia_Artificial-4695EB?style=flat-square" alt="IA" />
+  <img src="https://img.shields.io/badge/🌐_Web-7F52FF?style=flat-square" alt="Web" />
+  <img src="https://img.shields.io/badge/📱_Mobile-4695EB?style=flat-square" alt="Mobile" />
+  <img src="https://img.shields.io/badge/☁️_Cloud_&_DevOps-7F52FF?style=flat-square" alt="Cloud" />
+</p>
+
 ---
 
 ## 🚀 Productos
@@ -72,10 +79,12 @@ la automatización, la experiencia conversacional y la escalabilidad.
 ## 🌐 Conecta con nosotros
 
 <p align="center">
-  <a href="https://ventixs.com"><img src="https://img.shields.io/badge/Website-4695EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://www.linkedin.com/company/ventixs"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://ventixs.com"><img src="https://img.shields.io/badge/Website-ventixs.com-4695EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://paratipe.com"><img src="https://img.shields.io/badge/ParaTi-paratipe.com-7F52FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ParaTi" /></a>
 </p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ventixs/.github/main/profile/assets/footer.svg" alt="" width="100%" />
 </div>
+
+<p align="center"><sub>© Ventixs · Hecho en Perú 🇵🇪</sub></p>
